@@ -1,9 +1,3 @@
----
-title: CSL-Styles
-author: M. Todd Valerius
-date: '2023-07-17'
----
-
 # CSL-Styles
 Modified versions of prior CSL styles to use for NIH grant proposals. These are used in Zotero for adding references to grants. 
 
