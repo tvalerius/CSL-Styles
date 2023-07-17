@@ -272,7 +272,7 @@
       <key macro="year-date"/>
       <key variable="title"/>
     </sort>
-    <layout suffix=".">
+    <layout suffix="">
       <group delimiter=". ">
         <group delimiter=" ">
           <text macro="author"/>
