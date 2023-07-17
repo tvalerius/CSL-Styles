@@ -11,7 +11,7 @@
     </author>
     <category citation-format="author-date" field="generic-base"/>
     <summary>CSL file for short citations to be included on slides for presentations.</summary>
-    <updated>2023-07-17</updated>
+    <updated>2023-07-17T12:00:00+00:00</updated>
     <rights>Privately open.</rights>
   </info>
   <macro name="editor">

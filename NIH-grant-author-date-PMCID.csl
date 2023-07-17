@@ -16,7 +16,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>Harvard according to Cite Them Right, 11th edition.</summary>
-    <updated>2022-04-23T12:00:00+00:00</updated>
+    <updated>2023-07-17T12:00:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en-GB">
@@ -241,7 +241,7 @@
       <if variable="container-title">
         <group delimiter=". ">
           <group delimiter=" ">
-            <text variable="container-title" form="short" strip-periods="true" font-style="normal" suffix="."/>
+            <text variable="container-title" form="short" strip-periods="true" font-style="italic" suffix="."/>
             <choose>
               <if type="article article-journal" match="any">
                 <choose>
@@ -319,7 +319,7 @@
       </group>
       <group prefix=" ">
         <text macro="published-date" suffix=";"/>
-        <text macro="locator" suffix=":"/>
+        <text macro="locator"/>
         <text macro="pages"/>
       </group>
       <text macro="access" prefix=". "/>
