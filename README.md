@@ -49,11 +49,11 @@ Filename: `presentation short citations.csl`
 
 I wanted a simple citation form to include in presentations to credit the data source. The more formal styles for grants were too long, so I adapted an existing style to include just the First author, year, journal, and, if present, a DOI. The CSL style is called `presentation short citations.csl` and is designed for short citations to be included on slides for presentations. This way, there is enough short info for viewers to get down in their notes (name, date, journal), and if the slides are posted, the DOI is a usable link. 
 
-_**In-line citation style:**_ 
+_**In-line citation style:**_ (Not used in slides but it exists.)
 
 (Hansen _et al._, 2022; Naved _et al._, 2022; Shi _et al._, 2023)
 
-**_Bibliography style:_**
+**_Bibliography style:_** (Included on presentation slides.)
 
 Hansen, J. _et al._ (2022) _Sci Adv_. https://doi.org/10.1126/sciadv.abn4965
 
