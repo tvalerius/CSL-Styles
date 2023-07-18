@@ -4,7 +4,9 @@ Modified versions of prior CSL styles to use for NIH grant proposals. These are 
 ***
 
 ## NIH Grant Styles
-NIH grants require the PMCID (PubMed Central ID) in the Refereces Cited section fo the grant, _if there is one for that reference_. This is **not** the same as the PubMed ID (PMID), however I do like including it if there is not a PMCID. The following two styles include the PMCID when present in the Zotero entry. One form is Author-Date, the other Numeric. When there is space the Author-Date is more reviewer friendly. The numeric is delibrately not superscript for the in-line citations. It is also recommended that references are "complete" for grants which means all authors are listed. 
+NIH grants require the PMCID (PubMed Central ID) in the References Cited section of the grant, _if there is one for that reference_. This is **not** the same as the PubMed ID (PMID); however, I do like including it if there is no PMCID. The following two styles include the PMCID when present in the Zotero entry. One form is Author-Date, and the other Numeric. When there is space, the Author-Date is more reviewer friendly. The numeric is deliberately not superscript for the in-line citations. It is also recommended that references are "complete" for grants which means all authors are listed. 
+
+Note: There is a distinction between a Bibliography and a References Cited section. A _Bibliography_ contains additional work used in developing the idea presented but has not explicitly been cited. A _References Cited_ section has only things cited within the text. 
 
 ### NIH Grant Style - Author-Date
 
