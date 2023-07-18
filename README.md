@@ -16,7 +16,7 @@ _**In-line citation style:**_
 
 **_Bibliography style:_**
 
-Hansen J, Sealfon R, Menon R, Eadon MT, Lake BB, Steck B, Anjani K, Parikh S, Sigdel TK, Zhang G, Velickovic D, Barwinska D, Alexandrov T, Dobi D, Rashmi P, Otto EA, Rivera M, Rose MP, Anderton CR, Shapiro JP, Pamreddy A, Winfree S, Xiong Y, He Y, de Boer IH, Hodgin JB, Barisoni L, Naik AS, Sharma K, Sarwal MM, Zhang K, Himmelfarb J, Rovin B, El-Achkar TM, Laszik Z, He JC, Dagher PC, Valerius MT, Jain S, Satlin LM, Troyanskaya OG, Kretzler M, Iyengar R, Azeloglu EU, and Kidney Precision Medicine Project. A reference tissue atlas for the human kidney. _Sci Adv_. 2022 Jun;8(23):. doi:10.1126/sciadv.abn4965 PMCID: PMC9176741.
+Hansen J, Sealfon R, Menon R, Eadon MT, Lake BB, Steck B, Anjani K, Parikh S, Sigdel TK, Zhang G, Velickovic D, Barwinska D, Alexandrov T, Dobi D, Rashmi P, Otto EA, Rivera M, Rose MP, Anderton CR, Shapiro JP, Pamreddy A, Winfree S, Xiong Y, He Y, de Boer IH, Hodgin JB, Barisoni L, Naik AS, Sharma K, Sarwal MM, Zhang K, Himmelfarb J, Rovin B, El-Achkar TM, Laszik Z, He JC, Dagher PC, Valerius MT, Jain S, Satlin LM, Troyanskaya OG, Kretzler M, Iyengar R, Azeloglu EU, and Kidney Precision Medicine Project. A reference tissue atlas for the human kidney. _Sci Adv_. 2022 Jun;8(23). doi:10.1126/sciadv.abn4965 PMCID: PMC9176741.
 
 Naved BA, Bonventre JV, Hubbell JA, Hukriede NA, Humphreys BD, Kesselman C, Valerius MT, McMahon AP, Shankland SJ, Wertheim JA, White MJV, de Caestecker MP, and Drummond IA. Kidney repair and regeneration: perspectives of the NIDDK Re(Building) a Kidney consortium. _Kidney Int_. 2022 Mar;S0085-2538(22)00183--1. doi:10.1016/j.kint.2022.02.023 PMID: 35276204.
 
