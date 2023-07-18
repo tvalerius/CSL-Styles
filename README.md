@@ -1,5 +1,5 @@
 # CSL-Styles
-Modified versions of prior CSL styles to use for NIH grant proposals. These are used in Zotero for adding references to grants. 
+Modified versions of prior CSL styles to use for NIH grant proposals. These are used in Zotero for adding references to grants. For guidance on using, installing, or editing citation styles in Zotero, see the documentation: [Styles [Zotero Documentation]](https://www.zotero.org/support/styles) 
 
 ***
 
